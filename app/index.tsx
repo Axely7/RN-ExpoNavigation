@@ -3,7 +3,7 @@ import React from "react";
 import { Link, Redirect } from "expo-router";
 
 const App = () => {
-  return <Redirect href={"/tabs"} />;
+  return <Redirect href={"/drawer"} />;
 };
 
 export default App;
